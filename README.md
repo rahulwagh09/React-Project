@@ -90,15 +90,23 @@ It will copy all configuration files and transitive dependencies into your proje
 ---
 
 ## 📁 Project Structure
-frontend
-└── ├── .travis.yml
-    ├── Dockerfile
-    ├── docker-compose-dev.yml
-    ├── public/
-    ├── src/
-    │ └── App.js
-    └── README.md
+    frontend
+    └── 
 
+    ├── .travis.yml
+    
+    ├── Dockerfile
+    
+    ├── docker-compose-dev.yml
+    
+    ├── public/
+    
+    ├── src/
+    
+    │ └── App.js
+    
+    └── README.md
+---
 
 ## 🙌 Acknowledgments
 
