@@ -1,4 +1,4 @@
-# 🚀 React App CI/CD with Travis CI and AWS Elastic Beanstalk
+# 🚀 React App CI/CD with Travis CI and AWS 
 
 This project demonstrates how to deploy a Dockerized **React.js** application using **Travis CI** and **AWS Elastic Beanstalk**, following a complete **CI/CD pipeline** best practice.
 
