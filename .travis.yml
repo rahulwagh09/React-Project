@@ -6,4 +6,7 @@ before_install:
   - docker build -t rahul6004/react-project -f Dockerfile.dev .
 
 script:
+  # Keep Travis alive during test run (logs every 9 min)
+  - while sleep 9m; do echo "=== Travis is still running ==="; done &
   - docker run --rm rahul6004/react-project npm test -- --coverage --ci
+  - kill %1  # Kill the background keep-alive process
