@@ -6,6 +6,4 @@ before_install:
   - docker build -t rahul6004/react-project -f Dockerfile.dev .
 
 script:
-  - docker run rahul6004/react-project npm run test -- --coverage
-
-
+  - docker run --rm rahul6004/react-project npm test -- --coverage --ci
