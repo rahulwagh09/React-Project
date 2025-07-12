@@ -59,6 +59,12 @@ Feature development is managed using Git-based branching and pull requests. Depl
 
 ---
 
+## 🎯 Key Outcomes
+• Reduced deployment time by ~70% with end-to-end automation.
+• Eliminated manual errors, boosting environment consistency and uptime.
+• Improved team productivity, allowing developers to focus on features rather than deployments.
+
+
 ## 💻 Available Scripts
 
 In the project directory, you can run:
@@ -93,19 +99,20 @@ It will copy all configuration files and transitive dependencies into your proje
     frontend
     └── 
 
-    ├── .travis.yml
+      ├── .travis.yml
     
-    ├── Dockerfile
+      ├── Dockerfile
     
-    ├── docker-compose-dev.yml
+      ├── docker-compose-dev.yml
     
-    ├── public/
+      ├── public/
     
-    ├── src/
+      ├── src/
     
-    │ └── App.js
+      │ └── App.js
     
-    └── README.md
+      └── README.md
+    
 ---
 
 ## 🙌 Acknowledgments
@@ -114,8 +121,11 @@ Thanks to the DevOps and AWS community for providing documentation and tools tha
 
 ---
 
+
 ## 🤝 Connect With Me
 
 📫 [rahulwagh28032003@gmail.com](mailto:rahulwagh28032003@gmail.com)  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-wagh-cloud/)  
+
 🐙 [GitHub](https://github.com/rahulwagh09)
