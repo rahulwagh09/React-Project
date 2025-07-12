@@ -1,6 +1,6 @@
 # 🚀 React App CI/CD with Travis CI and AWS 
 
-This project demonstrates how to deploy a Dockerized **React.js** application using **Travis CI** and **AWS Elastic Beanstalk**, following a complete **CI/CD pipeline** best practice.
+This project demonstrates how to deploy a Dockerized **React.js** application using **Travis CI** and **AWS Cloud**, following a complete **CI/CD pipeline** best practice.
 
 ---
 
@@ -60,9 +60,10 @@ Feature development is managed using Git-based branching and pull requests. Depl
 ---
 
 ## 🎯 Key Outcomes
-- Reduced deployment time by ~70% with end-to-end automation.
-- Eliminated manual errors, boosting environment consistency and uptime.
-- Improved team productivity, allowing developers to focus on features rather than deployments.
+
+- **Reduced deployment time** by ~70% with end-to-end automation.
+- **Eliminated manual errors**, boosting environment consistency and uptime.
+- **Improved team productivity**, allowing developers to focus on features rather than deployments.
 
 ---
 
