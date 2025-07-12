@@ -4,6 +4,8 @@ This project demonstrates how to deploy a Dockerized **React.js** application us
 
 ---
 
+<img width="951" height="505" alt="Project Travis CI   AWS" src="https://github.com/user-attachments/assets/3bbe1d90-7674-443c-b631-dd63a571d34c" />
+
 ## 📖 Overview
 
 This project is designed to automate the deployment process of a React frontend using:
@@ -33,6 +35,13 @@ Feature development is managed using Git-based branching and pull requests. Depl
 2. Push the feature branch to GitHub.
 3. Create a **Pull Request** to merge it into the `master` branch.
 
+<img width="1919" height="971" alt="Screenshot 2025-07-11 193819" src="https://github.com/user-attachments/assets/0dfa10e8-96e8-4606-87a1-c3589394b919" />
+
+
+<img width="1915" height="959" alt="Screenshot 2025-07-11 193607" src="https://github.com/user-attachments/assets/dfa88467-a7b6-4054-985f-aba87d3d4f84" />
+
+
+
 ### ⚙️ Automated Steps via Travis CI
 - Triggered automatically when code is merged into `master`
 - Performs:
@@ -40,6 +49,13 @@ Feature development is managed using Git-based branching and pull requests. Depl
   - (Optional) Tests
   - Uploads artifact to **S3 bucket**
   - Deploys to **Elastic Beanstalk**
+
+
+<img width="1919" height="565" alt="Screenshot 2025-07-11 183712" src="https://github.com/user-attachments/assets/cfe633ea-e6bb-461f-86c6-8ae9e0fd0354" />
+
+
+
+<img width="1569" height="417" alt="Screenshot 2025-07-11 183649" src="https://github.com/user-attachments/assets/8ec64bbb-d73b-4d5f-943d-4b6579ff4cde" />
 
 ---
 
